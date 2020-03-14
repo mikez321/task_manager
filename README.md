@@ -5,20 +5,6 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+This is a tutorial about how to use rails from  https://github.com/turingschool-examples/task_manager_rails.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* It is built in Ruby 2.6.3 and Rails 5.1.7
